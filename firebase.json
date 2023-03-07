@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "shelfly",
     "public": "dist",
     "ignore": [
       "firebase.json",
