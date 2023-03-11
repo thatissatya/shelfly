@@ -1,0 +1,13 @@
+*{
+    height: 100%;
+    width: 100%;
+    background-color: azure;
+}
+.ui-app-view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-style: italic;
+    color: violet;
+}

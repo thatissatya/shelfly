@@ -1,8 +1,9 @@
 import React from 'react'
+import './App.css'
 
 const App = () => {
   return (
-    <div>under development</div>
+    <div className='ui-app-view'>under development</div>
   )
 }
 
